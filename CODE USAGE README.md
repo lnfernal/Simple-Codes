@@ -1,0 +1,2 @@
+You can start using the codes by clicking on the cpp files and dragging it into your sources .sln
+If you don't have visual studio i recommend you download it or you convert these to .txt and open them and start using them.
